@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.error { 
+	
+		color : red; 
+		font-weight: light; 
+		font-size: 12px;
+}
+
+.formLogin{
+	
+	margin: 0 auto;
+	 width: 300px;
+}
+
+
+
+@media only screen and (max-width: 600px){
+	.formLogin{
+	
+	margin: 0 auto;
+	 width: 100%;
+}	
+}
